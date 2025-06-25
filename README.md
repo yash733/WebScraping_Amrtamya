@@ -60,7 +60,6 @@ This project uses **Selenium** and **BeautifulSoup** to scrape product and categ
 ## Output
 
 - All scraped data is stored in the `scraped_data` Python dictionary.
-- You can further process, export, or analyze this data as needed (e.g., save to CSV, JSON, or a database).
 
 ---
 
@@ -74,8 +73,6 @@ This project uses **Selenium** and **BeautifulSoup** to scrape product and categ
 
 ## Disclaimer
 
-This project is for educational purposes only.  
-Please respect the website's [robots.txt](https://amrtamya.com/robots.txt) and terms of service.  
-Do not overload the server with rapid or repeated requests.
+This project was as acessment task.  
 
 ---
