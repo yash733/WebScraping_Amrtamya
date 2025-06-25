@@ -1,0 +1,6 @@
+selenium
+pandas
+numpy
+beautifulsoup4
+requests
+ipykernel
