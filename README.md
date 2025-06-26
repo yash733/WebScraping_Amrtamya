@@ -73,6 +73,6 @@ This project uses **Selenium** and **BeautifulSoup** to scrape product and categ
 
 ## Disclaimer
 
-This project was as acessment task.  
+This project was an acessment task.  
 
 ---
