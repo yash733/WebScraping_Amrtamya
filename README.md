@@ -60,7 +60,7 @@ This project uses **Selenium** and **BeautifulSoup** to scrape product and categ
 ## Output
 
 - All scraped data is stored in the `scraped_data` Python dictionary.
-
+- CSV format data [amrtamya_products.csv](https://github.com/yash733/WebScraping_Amrtamya/blob/main/Scraping/amrtamya_products.csv)
 ---
 
 ## Notes
